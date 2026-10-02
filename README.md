@@ -2,11 +2,13 @@
 
 # REMPATH.EXE
 
+A tiny little utility that does one thing: removes a directory from your DOS environment's `PATH` variable.
+
 [Download REMPATH.EXE](https://github.com/therenegar/rempath/blob/main/REMPATH.EXE) and place anywhere (ideally a location that is on PATH itself!)
 
 ### Usage
 
-To remove a directory from your environment's PATH variable (leaving everything else)
+To remove a directory from `PATH` (leaving everything else)
 ```
 REMPATH C:\DIRECTORY
 ```
