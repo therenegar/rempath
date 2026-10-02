@@ -6,7 +6,7 @@
 
 ### Usage
 
-To remove a directory from your environment PATH statement (leaving everything else)
+To remove a directory from your environment's PATH variable (leaving everything else)
 ```
 REMPATH C:\DIRECTORY
 ```
